@@ -19,3 +19,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ![](src/awair.png)
+
+### After dragging across the image
+
+![](src/awair2.png)
