@@ -23,14 +23,12 @@ export default class Checkout extends Component {
                  help you stay safe and healthy.
                 </Typography>
                 </Grid>
-                
                 <Grid item xs={6} >
                 <Product />
                 </Grid>
                 <Grid item xs={6}>
                 <CheckoutForm />
                 </Grid>
-                
                 </Grid>
                 </Container>
             </div>

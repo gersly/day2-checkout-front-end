@@ -14,7 +14,6 @@ export default class TopNav extends Component {
                  <Typography variant="h5">
                  Awair
                  </Typography> 
-                 
                  <span className="col-center">
                  <Typography variant="h6">
                  <Link href="#" className="spacer-x-sm">
@@ -37,9 +36,6 @@ export default class TopNav extends Component {
                 </Link>
                 </Typography>
                  </span>
-                 
-                 
-                 
                  </Toolbar>
                 </AppBar>
             </div>
