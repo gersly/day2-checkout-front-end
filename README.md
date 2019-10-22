@@ -5,11 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone this repository
 
-git clone <this-repo-clone-link> <give-it-a-name>
-cd <give-it-a-name>
-npm run start
-
+### `git clone git@github.com:gersly/day2-checkout-front-end.git` give-it-a-name
+### `cd` give-it-a-name
 ### `npm install` or `npm i`
+### `npm run start`
+
+
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
