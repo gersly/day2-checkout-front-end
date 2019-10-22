@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# React checkout page with 360 image viewer for React
+`npm i react-360-image` @ `https://www.npmjs.com/package/react-360-image`
+
 ## Clone this repository
 
 git clone <this-repo-clone-link> <give-it-a-name>
